@@ -1,0 +1,6 @@
+name "Moosetang"
+
+seed_capital   4
+has_an_academy 0
+academy_price_factor .3
+academy_driver_ability_to_focus_on straight_speed

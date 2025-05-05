@@ -1,0 +1,5 @@
+name "Crazy-Lola"
+
+size 4
+
+background_colour_srgb 0xeb1c24

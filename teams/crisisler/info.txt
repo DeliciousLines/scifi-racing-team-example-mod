@@ -1,0 +1,6 @@
+name "Crisisler"
+
+seed_capital   3
+has_an_academy 1
+academy_price_factor .3
+academy_driver_ability_to_focus_on cornering_speed

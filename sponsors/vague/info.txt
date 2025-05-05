@@ -1,0 +1,5 @@
+name "Vague"
+
+size 1
+
+background_colour_srgb 0xffffffff

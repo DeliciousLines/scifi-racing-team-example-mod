@@ -1,0 +1,33 @@
+chassis_rules do_whatever_you_want
+engine_rules  do_whatever_you_want
+
+points_awarded_for_fastest_race_lap 2
+
+min_number_of_teams 8
+max_number_of_teams 15
+
+max_points_awarded_for_qualifying           2
+last_place_to_receive_points_for_qualifying 1
+qualifying_points_distribution              linear
+
+num_qualifying_laps 5
+num_laps_per_race   80
+
+max_points_awarded_per_win    20
+last_place_to_receive_points  5
+points_distribution           square
+
+
+min_seed_capital_for_bot_team 50000000
+max_seed_capital_for_bot_team 400000000
+
+max_sponsor_money_per_season   30000000
+max_sponsor_money_per_race      1000000
+
+
+entry_fee_per_point_scored_in_previous_season 200000
+
+prize_pool           400000000
+prize_distribution   square
+
+max_races_per_season 6

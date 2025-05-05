@@ -1,0 +1,5 @@
+name    "Example Mod"
+version "v1"
+author  "Delicious Lines"
+
+visibility public

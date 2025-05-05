@@ -1,0 +1,7 @@
+name "Arenis Oval II"
+
+oxygen_range              [0 1]
+oxygen_variation_strength .05
+
+temperature_range              [-1  1]
+temperature_variation_strength .2

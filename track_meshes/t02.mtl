@@ -1,0 +1,22 @@
+# Blender 4.4.3 MTL File: 't02.blend'
+# www.blender.org
+
+newmtl road
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Scifi_texture_S2182139072_St25_G7.5.png
+
+newmtl stands
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Big_adverdisement_neon_boards_at_night__scifi__photograph_S1852805438_St15_G7.5.png
